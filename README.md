@@ -1,15 +1,3 @@
-#### React Router Fix
+## Based on the React Course by (John Smilga) on Udemy
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+https://www.udemy.com/course/react-tutorial-and-projects-course
